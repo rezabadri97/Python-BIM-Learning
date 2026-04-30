@@ -1,0 +1,4 @@
+101,Office,Level 1
+102,Meeting Room,Level 1
+103,Storage,Level 2
+104,Lab,Level 3
