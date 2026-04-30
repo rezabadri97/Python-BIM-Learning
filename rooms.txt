@@ -1,4 +1,4 @@
-Office 101
-Meeting Room
-Storage
-Lab 201
+Room: Office 101
+Level: Level 1
+Area: 45.5
+Status: Active
