@@ -20,7 +20,7 @@ rooms = [
     ["103", "Storage", "Level 2"]
 ]
 
-with open("Report01.tex","w") as file:
+with open("Report01.txt","w") as file:
     file.write("="*40+"\n")
     file.write("\n")
     file.write("Room Report\n")

@@ -1,0 +1,13 @@
+Office|12.5
+
+Lobby|abc
+
+|10
+
+Storage|0
+
+Meeting Room|25
+
+BadLineWithoutSeparator
+
+Kitchen|18.2
