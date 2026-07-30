@@ -2,3 +2,6 @@ Project: Residential Tower
 Discipline: Structure
 LOD: 300
 Author: Reza Badri
+
+Status: Review Passed
+Date:2026-07-30
