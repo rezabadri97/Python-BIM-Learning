@@ -1,0 +1,5 @@
+ElementId,Category,TypeName,Level
+2001,Wall,Generic Wall 200mm,Level 1
+2002,Door,Single Door 900mm,Level 1
+2003,Window,Sliding Window 1500mm,Level 2
+2004,Floor,Concrete Floor 300mm,Level 2
