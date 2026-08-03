@@ -1,0 +1,11 @@
+{
+    "FilteredCategory": "Wall",
+    "Elements": [
+        {
+            "ElementId": 4001,
+            "Category": "Wall",
+            "TypeName": "Generic Wall 200mm",
+            "Level": "Level 1"
+        }
+    ]
+}
