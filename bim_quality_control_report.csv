@@ -1,0 +1,5 @@
+ElementId,Category,TypeName,Level,ReviewStatus,Priority,ActionRequired
+2001,Wall,Generic Wall 200mm,Level 1,Structural Review,High,Check Load Bearing Condition
+2002,Door,Single Door 900mm,Level 1,Opening Review,High,Check Opening Size
+2003,Window,Sliding Window 1500mm,Level 2,Facade Review,Normal,Check Sill Height
+2004,Floor,Concrete Floor 300mm,Level 2,Slab Review,Normal,No Immediate Action
