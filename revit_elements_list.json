@@ -1,0 +1,29 @@
+{
+    "ProjectName": "Residential Tower",
+    "Elements": [
+        {
+            "ElementId": 4001,
+            "Category": "Wall",
+            "TypeName": "Generic Wall 200mm",
+            "Level": "Level 1"
+        },
+        {
+            "ElementId": 4002,
+            "Category": "Door",
+            "TypeName": "Single Flush Door 900mm",
+            "Level": "Level 1"
+        },
+        {
+            "ElementId": 4003,
+            "Category": "Window",
+            "TypeName": "Fixed Window 1200mm",
+            "Level": "Level 2"
+        },
+        {
+            "ElementId": 4004,
+            "Category": "Door",
+            "TypeName": "Double Glass Door 1600mm",
+            "Level": "Level 2"
+        }
+    ]
+}
