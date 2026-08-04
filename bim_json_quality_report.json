@@ -1,0 +1,17 @@
+{
+    "ReportName": "BIM JSON Quality Report",
+    "TotalElements": 4,
+    "CategoryCounts": {
+        "Wall": 1,
+        "Door": 2,
+        "Window": 1
+    },
+    "RequiredFields": [
+        "ElementId",
+        "Category",
+        "TypeName",
+        "Level"
+    ],
+    "MissingFieldElementCount": 0,
+    "MissingFieldElements": []
+}
