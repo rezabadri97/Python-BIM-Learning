@@ -1,0 +1,9 @@
+2026-08-07 11:39:24,575 | INFO | Batch check started
+2026-08-07 11:39:24,575 | INFO | Checking file: Tower_B.rvt
+2026-08-07 11:39:24,575 | WARNING | Model has 5 elements without Fire Rating
+2026-08-07 11:39:24,575 | ERROR | Invalid number conversion during BIM check
+Traceback (most recent call last):
+  File "d:\Python BIM Learning\ٍError_handling_basics\logging\exercise_01_basic_logging.py", line 21, in <module>
+    number = int("abc")
+ValueError: invalid literal for int() with base 10: 'abc'
+2026-08-07 11:39:24,579 | INFO | Batch check finished
